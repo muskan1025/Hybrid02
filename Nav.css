@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+    font-family:monospace;
+
+}
+body{
+    background-color:rgb(249, 242, 232);
+}
+nav{
+    background-color:rgb(234, 146, 176);
+    padding: 1.5rem;
+    display: flex;
+    justify-content: center;
+    gap: .5rem;
+    align-items: center;
+    font-weight: 400;
+}
+
+nav h6{
+    color: white;
+    font-size: 1rem;
+}
